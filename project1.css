@@ -1,0 +1,115 @@
+.f1
+{
+	color: red;
+	font-size: 65px;
+	text-shadow: 5px 5px gray;
+	font-weight: bolder;
+	margin-top: 150px;
+	text-align: center;
+}
+.para
+{
+	/**/
+	font-size: 50px;
+	font-weight: bolder;
+	font-style: italic;
+	color: purple;
+
+}
+.par
+{
+	font-size: 20px;
+	color: #008080;
+	font-style: italic;
+	font-weight: bold;
+}
+#bt{     
+    background-color: Transparent;
+    background-repeat:no-repeat;
+   	border: .1em solid #ffffff;
+   	font-size: 1em;
+    cursor:pointer;
+    overflow: hidden;        
+}
+#bt:hover{
+	background-color: #ffffff;
+}
+#anc{
+	text-decoration: none;
+	font-size: 15px;
+}
+.hj2{
+	font-weight: bolder;
+	text-align: center;
+	font-family: "Abril Fatface", times, serif;
+}
+.pic{
+	height: 60px;
+	width: 60px;
+}
+.inter{
+	font-family: "Abril Fatface", times, serif;
+	font-weight: bolder;
+	font-size: 5em;
+	text-align: center;
+}
+#caro{
+	align-content: center;
+}
+.span1{
+	margin-left: 300px;
+}
+.td{
+	height: 120px;
+	width: 330px;
+}
+}
+table{
+	border-width: 330px;
+}
+.recent{
+	background-color: #808080;
+}	
+.h3s{
+	font-weight: bolder;
+	color: #22DF00;
+	font-family: "Abril Fatface", times, serif;
+}
+ .anc{
+	text-decoration: none;
+}
+a
+{
+	text-decoration: none !important;
+}
+.gaint{
+	height: 20px;
+	width: 20px;
+}
+.sub{
+	background-color: Transparent;
+	border: none;
+}
+.hotel{
+	color: #ffffff;
+	font-size: 80px;
+	text-shadow: 5px 5px gray;
+	font-weight: bolder;
+	margin-top: 150px;
+	text-align: center;
+}
+.hotel1{
+	color: #ffffff;
+}
+.hotel2{
+	font-family: "Abril Fatface", times, serif;
+	font-weight: bolder;
+	font-size: 35px;
+}
+#bt1:hover{
+	background-color: #67E2FD;
+	color: white;
+}
+.but{
+	color: #00FFC5;
+}
